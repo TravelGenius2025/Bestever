@@ -29,7 +29,6 @@ export default function Home() {
         </div>
       </section>
     </div>
-  )
 }
 import Faq from '@/components/Faq';
 ...
