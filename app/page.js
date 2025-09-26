@@ -31,3 +31,6 @@ export default function Home() {
     </div>
   )
 }
+import Faq from '@/components/Faq';
+...
+<Faq />
